@@ -1,4 +1,6 @@
-import utils.Node;
+package LinkedList;
+
+import LinkedList.utils.Node;
 
 /**
  * Approach - 2 pointers (slow and fast)
