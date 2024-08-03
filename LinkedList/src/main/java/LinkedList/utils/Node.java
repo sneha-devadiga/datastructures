@@ -1,4 +1,4 @@
-package utils;
+package LinkedList.utils;
 
 public class Node {
     public int data;
