@@ -1,4 +1,6 @@
-import utils.Node;
+package LinkedList;
+
+import LinkedList.utils.Node;
 
 /**
  * Time Complexity : O(n)
